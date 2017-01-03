@@ -23,10 +23,7 @@ public class WritingIntoTextFile {
 		//closing stream
 		writer.close();
 		
-		System.out.println("File created...");
-		
-		
-		
+		System.out.println("File created...");		
 		
 	}
 
