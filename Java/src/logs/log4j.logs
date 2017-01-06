@@ -1,0 +1,6 @@
+06/01/2017 10:20:51 DEBUG consoleLogsPackage.ConsoleLogs - This is Debug log
+06/01/2017 10:20:51 INFO  consoleLogsPackage.ConsoleLogs - This is info log
+06/01/2017 10:20:51 ERROR consoleLogsPackage.ConsoleLogs - This is error log
+06/01/2017 10:21:39 DEBUG consoleLogsPackage.ConsoleLogs - This is Debug log
+06/01/2017 10:21:39 INFO  consoleLogsPackage.ConsoleLogs - This is info log
+06/01/2017 10:21:39 ERROR consoleLogsPackage.ConsoleLogs - This is error log
