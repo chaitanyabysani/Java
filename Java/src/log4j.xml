@@ -16,7 +16,7 @@
      <!-- File Appender -->
     
      <appender name="fileAppender" class="org.apache.log4j.FileAppender">
-        <param name="File" value="H:/GitProjects/Java/src/logs/log4j.logs" />
+        <param name="File" value="H:/GitProjects/Email/src/main/java/mail/log4j.logs" />
         <param name="Append" value="true" />
         <layout class="org.apache.log4j.PatternLayout">
           <param name="ConversionPattern" value="%d{dd/MM/yyyy HH:mm:ss} %-5p %c{2} - %m%n"/>
@@ -26,7 +26,7 @@
      <!-- HTML Appender -->
     
    <appender name="htmlAppender" class="org.apache.log4j.DailyRollingFileAppender">
-            <param name="File" value="H:/GitProjects/Java/log.html"/>
+            <param name="File" value="H:/GitProjects/Email/log.html"/>
     	<param name="DatePattern" value="'.'yyyy-MM-dd-HH'.html'"/>
     	<layout class="org.apache.log4j.HTMLLayout"/>
           <!--/layout-->
@@ -36,8 +36,8 @@
     
     <appender name="ERROR_MAIL" class="SecureSMTPAppender">
    <param name="SMTPUsername" value="automationmails@gmail.com" />
-    <param name="SMTPPassword" value="selenium@123" />
-    <param name="To" value="automationmails@gmail.com,chaitanyabysani88@gmail.com"/>
+    <param name="SMTPPassword" value="selenius" />
+    <param name="To" value="automationmails@gmail.com"/>
     <param name="From" value="automationmails@gmail.com"/>
     <param name="Subject" value="Log4j Error in Project"/>
     <param name="SMTPHost" value="smtp.gmail.com"/>

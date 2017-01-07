@@ -4,3 +4,36 @@
 06/01/2017 10:21:39 DEBUG consoleLogsPackage.ConsoleLogs - This is Debug log
 06/01/2017 10:21:39 INFO  consoleLogsPackage.ConsoleLogs - This is info log
 06/01/2017 10:21:39 ERROR consoleLogsPackage.ConsoleLogs - This is error log
+07/01/2017 08:30:41 DEBUG devpinoyLogger - Getting the row count
+07/01/2017 08:30:41 DEBUG devpinoyLogger - Getting the column count
+07/01/2017 08:30:41 DEBUG devpinoyLogger - Getting the data
+07/01/2017 08:30:41 DEBUG devpinoyLogger - Entering the data
+07/01/2017 08:35:39 DEBUG devpinoyLogger - Getting the row count
+07/01/2017 08:35:39 DEBUG devpinoyLogger - Getting the column count
+07/01/2017 08:35:39 DEBUG devpinoyLogger - Getting the data
+07/01/2017 08:35:39 DEBUG devpinoyLogger - Entering the data
+07/01/2017 08:36:24 DEBUG devpinoyLogger - Getting the row count
+07/01/2017 08:36:24 DEBUG devpinoyLogger - Getting the column count
+07/01/2017 08:36:24 DEBUG devpinoyLogger - Getting the data
+07/01/2017 08:36:24 DEBUG devpinoyLogger - Entering the data
+07/01/2017 09:00:34 DEBUG consoleLogsPackage.ConsoleLogs - This is Debug log
+07/01/2017 09:00:34 INFO  consoleLogsPackage.ConsoleLogs - This is info log
+07/01/2017 09:00:34 ERROR consoleLogsPackage.ConsoleLogs - This is error log
+07/01/2017 09:01:18 DEBUG consoleLogsPackage.ConsoleLogs - This is Debug log
+07/01/2017 09:01:18 INFO  consoleLogsPackage.ConsoleLogs - This is info log
+07/01/2017 09:01:18 ERROR consoleLogsPackage.ConsoleLogs - This is error log
+07/01/2017 09:03:09 DEBUG consoleLogsPackage.ConsoleLogs - This is Debug log
+07/01/2017 09:03:09 INFO  consoleLogsPackage.ConsoleLogs - This is info log
+07/01/2017 09:03:09 ERROR consoleLogsPackage.ConsoleLogs - This is error log
+07/01/2017 09:03:18 DEBUG devpinoyLogger - Getting the row count
+07/01/2017 09:03:18 DEBUG devpinoyLogger - Getting the column count
+07/01/2017 09:03:18 DEBUG devpinoyLogger - Getting the data
+07/01/2017 09:03:18 DEBUG devpinoyLogger - Entering the data
+07/01/2017 09:03:55 DEBUG devpinoyLogger - Getting the row count
+07/01/2017 09:03:55 DEBUG devpinoyLogger - Getting the column count
+07/01/2017 09:03:55 DEBUG devpinoyLogger - Getting the data
+07/01/2017 09:03:55 DEBUG devpinoyLogger - Entering the data
+07/01/2017 09:05:46 DEBUG devpinoyLogger - Getting the row count
+07/01/2017 09:05:46 DEBUG devpinoyLogger - Getting the column count
+07/01/2017 09:05:46 DEBUG devpinoyLogger - Getting the data
+07/01/2017 09:05:46 DEBUG devpinoyLogger - Entering the data
