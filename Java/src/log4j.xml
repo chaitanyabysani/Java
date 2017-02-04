@@ -36,7 +36,7 @@
     
     <appender name="ERROR_MAIL" class="SecureSMTPAppender">
    <param name="SMTPUsername" value="automationmails@gmail.com" />
-    <param name="SMTPPassword" value="selenius" />
+    <param name="SMTPPassword" value="selenium@123" />
     <param name="To" value="automationmails@gmail.com"/>
     <param name="From" value="automationmails@gmail.com"/>
     <param name="Subject" value="Log4j Error in Project"/>

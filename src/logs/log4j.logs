@@ -1,0 +1,16 @@
+07/01/2017 07:36:27 DEBUG consoleLogsPackage.ConsoleLogs - This is Debug log
+07/01/2017 07:36:27 INFO  consoleLogsPackage.ConsoleLogs - This is info log
+07/01/2017 07:36:27 ERROR consoleLogsPackage.ConsoleLogs - This is error log
+07/01/2017 07:37:23 DEBUG consoleLogsPackage.ConsoleLogs - This is Debug log
+07/01/2017 07:37:23 INFO  consoleLogsPackage.ConsoleLogs - This is info log
+07/01/2017 07:37:23 ERROR consoleLogsPackage.ConsoleLogs - This is error log
+07/01/2017 07:38:52 DEBUG consoleLogsPackage.ConsoleLogs - This is Debug log
+07/01/2017 07:38:52 INFO  consoleLogsPackage.ConsoleLogs - This is info log
+07/01/2017 07:38:52 ERROR consoleLogsPackage.ConsoleLogs - This is error log
+07/01/2017 07:41:32 DEBUG consoleLogsPackage.ConsoleLogs - This is Debug log
+07/01/2017 07:41:32 INFO  consoleLogsPackage.ConsoleLogs - This is info log
+07/01/2017 07:41:32 ERROR consoleLogsPackage.ConsoleLogs - This is error log
+07/01/2017 08:15:37 DEBUG devpinoyLogger - Getting the row count
+07/01/2017 08:15:37 DEBUG devpinoyLogger - Getting the column count
+07/01/2017 08:15:37 DEBUG devpinoyLogger - Getting the data
+07/01/2017 08:15:37 DEBUG devpinoyLogger - Entering the data
